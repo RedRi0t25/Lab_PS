@@ -58,7 +58,7 @@ def connect_ftp(
 
 
 if __name__ == "__main__":
-    # connect_ftp(host="ftp.mirror.nl", save_path="\Practica7\TXT")
+    # connect_ftp(host="ftp.mirror.nl", save_path="C:\Users\vgrob\Downloads\laboratorio xd\Practica7\TXT")
     connect_ftp(host="ftp.rediris.es", save_path="C:\Users\vgrob\Downloads\laboratorio xd\Practica7\TXT")
 
     print("Exito")
